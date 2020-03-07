@@ -29,7 +29,8 @@
 - [XX-Net](https://github.com/XX-net/XX-Net) - 易用的翻墙工具。
 - [IrfanView](https://www.irfanview.com/) - 一款使用非常方便的图像查看工具。
 - [Notepad2-mod](https://xhmikosr.github.io/notepad2-mod/) -一个相当优秀的轻量级文本编辑器。
-
+- [Everything](https://www.voidtools.com/)
+- [Notepad2-mod](https://bbs.kafan.cn/thread-1207150-1-1.html)
 ### 影音
 
 - [Potplayer](http://www.ksite.xyz/contents/pm-Lav_codec_ball.html) - <font color=Blue>[免费]</font> PM更新包是一款自定义强，自由度高，功能齐全，操作简单的播放器DIY整合包，也是一个自用的绿色版。
