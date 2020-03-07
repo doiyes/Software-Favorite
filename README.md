@@ -31,6 +31,29 @@
 - [Notepad2-mod](https://xhmikosr.github.io/notepad2-mod/) -一个相当优秀的轻量级文本编辑器。
 - [Everything](https://www.voidtools.com/)
 - [Notepad2-mod](https://bbs.kafan.cn/thread-1207150-1-1.html)
+- [Adult PDF Password Recovery](https://www.7-zip.org/) - <font color=#008000>[开源]</font> <font color=Blue>[免费]</font> 一款功能强大、体积小巧的PDF密码移除器，一键移除密码。
+
+BeyondCompare
+Bulk Rename Utility
+Comparator
+Disable.Nvidia.Telemetry
+FreeCommanderXE
+malware-kill3.5
+MixMeister BPM Analyzer
+PanDownload
+PDF-XChange Viewer
+PM Players
+QQ2009
+Recuva
+Registry Workshop
+ThunderX
+TrafficMonitor
+TSearch
+WindowTabs
+WinMend
+智能定时关机iCloseDown
+
+
 ### 影音
 
 - [Potplayer](http://www.ksite.xyz/contents/pm-Lav_codec_ball.html) - <font color=Blue>[免费]</font> PM更新包是一款自定义强，自由度高，功能齐全，操作简单的播放器DIY整合包，也是一个自用的绿色版。
