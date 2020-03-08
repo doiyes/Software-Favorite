@@ -32,26 +32,25 @@
 - [Everything](https://www.voidtools.com/)
 - [Notepad2-mod](https://bbs.kafan.cn/thread-1207150-1-1.html)
 - [Adult PDF Password Recovery](https://www.7-zip.org/) - <font color=#008000>[开源]</font> <font color=Blue>[免费]</font> 一款功能强大、体积小巧的PDF密码移除器，一键移除密码。
-
-BeyondCompare
-Bulk Rename Utility
-Comparator
-Disable.Nvidia.Telemetry
-FreeCommanderXE
-malware-kill3.5
-MixMeister BPM Analyzer
-PanDownload
-PDF-XChange Viewer
-PM Players
-QQ2009
-Recuva
-Registry Workshop
-ThunderX
-TrafficMonitor
-TSearch
-WindowTabs
-WinMend
-智能定时关机iCloseDown
+- BeyondCompare
+- Bulk Rename Utility
+- Comparator
+- Disable.Nvidia.Telemetry
+- FreeCommanderXE
+- malware-kill3.5
+- MixMeister BPM Analyzer
+- PanDownload
+- PDF-XChange Viewer
+- PM Players
+- QQ2009
+- Recuva
+- Registry Workshop
+- ThunderX
+- TrafficMonitor
+- TSearch
+- WindowTabs
+- WinMend
+- 智能定时关机iCloseDown
 
 
 > 影音
