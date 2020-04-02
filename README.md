@@ -60,7 +60,16 @@
 - [GitHub Desktop](https://windows.github.com/) - GitHub的官方客户端。
 - [Listary](http://www.listary.com/) - 一款革命性的搜索和应用启动软件。
 
+
+
+- Gboard词库导入https://www.jianshu.com/p/00373c2d2bd6
+
+
+
 **[⬆ 回到顶部](#Windows程序)**
+
+
+
 
 
 ## 版权
