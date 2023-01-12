@@ -55,6 +55,7 @@ date: 2022-06-12 13:32:00
 - [阿里云盘小白羊版](https://github.com/liupan1890/aliyunpan) - 阿里云盘小白羊版。[V3版](https://github.com/PingKuNet/aliyunpan)
 - [FastGithub](https://github.com/dotnetcore/FastGithub) - github加速神器。
 - [Sumatra PDF](https://www.sumatrapdfreader.org) - 一款极致轻量级的PDF阅读器。
+- [v2rayN](https://github.com/2dust/v2rayN) - 开源网络代理客户端。
 
 ### 系统相关
 
