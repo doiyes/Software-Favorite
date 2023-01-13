@@ -52,7 +52,7 @@ date: 2022-06-12 13:32:00
 - [GitHub Desktop](https://windows.github.com/) - GitHub的官方客户端。
 - [Listary](http://www.listary.com/) - 一款革命性的搜索和应用启动软件。
 - [PowerToys](https://github.com/microsoft/PowerToys) -a set of utilities for power users to tune and streamline their Windows experience for greater productivity。
-- [阿里云盘小白羊版](https://github.com/liupan1890/aliyunpan) - 阿里云盘小白羊版。[V3版](https://github.com/PingKuNet/aliyunpan)
+- [阿里云盘小白羊版](https://github.com/liupan1890/aliyunpan) - 阿里云盘小白羊版。[fork版](https://github.com/PingKuNet/aliyunpan)
 - [FastGithub](https://github.com/dotnetcore/FastGithub) - github加速神器。
 - [Sumatra PDF](https://www.sumatrapdfreader.org) - 一款极致轻量级的PDF阅读器。
 - [v2rayN](https://github.com/2dust/v2rayN) - 开源网络代理客户端。
