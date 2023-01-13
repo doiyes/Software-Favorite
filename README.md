@@ -91,7 +91,10 @@ date: 2022-06-12 13:32:00
 - [APKPure](https://apkpure.com/cn/app) -  <font color=Blue>[免费]</font> 安卓应用市场。
 - [Fenix](https://github.com/mozilla-mobile/fenix) - Firefox for Android。
 - [Iceraven Browser](https://github.com/fork-maintainers/iceraven-browser/) - a web browser for Android, based on Mozilla's Fenix version of Firefox。
+- [Listen1 Mobile](https://github.com/listen1/listen1_mobile) -  <font color=Blue>[免费]</font> 一款支持多平台音乐播放和搜索的移动音乐 App。
+- [洛雪音乐](https://github.com/lyswhut/lx-music-mobile) -  <font color=Blue>[免费]</font> 一个基于 React native 开发的音乐软件。
 - [阿里云盘TV](https://aliyunpantv.gitlab.io/) -  <font color=Blue>[免费]</font> 阿里云盘TV。
 - [小白云盘TV](https://crazynoby.github.io/) -  <font color=Blue>[免费]</font> 小白云盘TV。
+- [v2rayNG](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core。
 
 **[⬆ 回到顶部](#Windows程序)**
