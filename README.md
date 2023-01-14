@@ -26,7 +26,7 @@ date: 2022-06-12 13:32:00
 - [7-Zip](https://sparanoid.com/lab/7z/) - <font color=#008000>[开源]</font> <font color=Blue>[免费]</font> 开源压缩软件。
 - [Everything](https://www.voidtools.com/) - <font color=Blue>[免费]</font> 速度最快的文件搜索软件，搜索神器。 
 - [Office Tool Plus](https://otp.landian.la/) -  <font color=Blue>[免费]</font> 基于 Office 部署工具 (ODT) 打造，可以很轻松地部署 Office。
-- [QTTabBar](http://qttabbar.sourceforge.net/) - 我最爱的资源管理器增强，给你的资源管理器增加多标签页支持。[QT(国人改)](https://github.com/indiff/qttabbar)
+- [QTTabBar](http://qttabbar.sourceforge.net/) - 我最爱的资源管理器增强，给你的资源管理器增加多标签页支持。[QT(indiff版)](https://github.com/indiff/qttabbar)
 - [FreeCommander](https://freecommander.com/) - 一款可以代替 Total Commander 的免费文件管理器。
 - [XX-Net](https://github.com/XX-net/XX-Net) - 易用的翻墙工具。
 - [IrfanView](https://www.irfanview.com/) - 一款使用非常方便的图像查看工具。
